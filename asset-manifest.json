@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mixmint-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Mixmint-React/static/js/main.4c482bc7.js",
+    "static/js/787.ffbaa67b.chunk.js": "/Mixmint-React/static/js/787.ffbaa67b.chunk.js",
+    "index.html": "/Mixmint-React/index.html",
+    "main.e6c13ad2.css.map": "/Mixmint-React/static/css/main.e6c13ad2.css.map",
+    "main.4c482bc7.js.map": "/Mixmint-React/static/js/main.4c482bc7.js.map",
+    "787.ffbaa67b.chunk.js.map": "/Mixmint-React/static/js/787.ffbaa67b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4c482bc7.js"
+  ]
+}
