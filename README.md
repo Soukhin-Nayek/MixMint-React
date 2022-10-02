@@ -1,4 +1,4 @@
-#Mixmint-React 
+# # # Mixmint-React # # #  
 
 this is a social media app made with react. 
 
